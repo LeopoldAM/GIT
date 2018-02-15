@@ -1,0 +1,42 @@
+C:\Users\lamengual\source\repos\ExoDesignPattern\ExoDesignPattern\bin\Debug\ExoDesignPattern.exe.config
+C:\Users\lamengual\source\repos\ExoDesignPattern\ExoDesignPattern\bin\Debug\ExoDesignPattern.exe
+C:\Users\lamengual\source\repos\ExoDesignPattern\ExoDesignPattern\bin\Debug\ExoDesignPattern.pdb
+C:\Users\lamengual\source\repos\ExoDesignPattern\ExoDesignPattern\obj\Debug\DesignPatternView.csprojResolveAssemblyReference.cache
+C:\Users\lamengual\source\repos\ExoDesignPattern\ExoDesignPattern\obj\Debug\DesignPatternView.csproj.CoreCompileInputs.cache
+C:\Users\lamengual\source\repos\ExoDesignPattern\ExoDesignPattern\obj\Debug\ExoDesignPattern.exe
+C:\Users\lamengual\source\repos\ExoDesignPattern\ExoDesignPattern\obj\Debug\ExoDesignPattern.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\ExoDesignPattern.exe.config
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\ExoDesignPattern.exe
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\ExoDesignPattern.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\obj\Debug\DesignPatternView.csprojResolveAssemblyReference.cache
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\obj\Debug\DesignPatternView.csproj.CoreCompileInputs.cache
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\obj\Debug\ExoDesignPattern.exe
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\obj\Debug\ExoDesignPattern.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\DesignPatternController.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\DesignPatternController.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Entities.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\DesignPatternBusiness.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Repository.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Entities.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\DesignPatternBusiness.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Repository.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\BusinessContrats.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\CommonServiceLocator.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\RepositoryContrats.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Abstractions.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Configuration.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Container.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Interception.Configuration.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Interception.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.RegistrationByConvention.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.ServiceLocation.dll
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\BusinessContrats.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\RepositoryContrats.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\CommonServiceLocator.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Abstractions.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Configuration.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Container.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Interception.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.Interception.Configuration.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.RegistrationByConvention.pdb
+E:\formation NET\ExoDesignPattern\ExoDesignPattern\bin\Debug\Unity.ServiceLocation.pdb

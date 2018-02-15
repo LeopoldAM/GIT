@@ -1,0 +1,2 @@
+E:\formation NET\ExoDesignPattern\DesignPatternControllerTests\obj\Debug\DesignPatternControllerTests.csprojResolveAssemblyReference.cache
+E:\formation NET\ExoDesignPattern\DesignPatternControllerTests\obj\Debug\DesignPatternControllerTests.csproj.CoreCompileInputs.cache

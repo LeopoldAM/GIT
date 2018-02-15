@@ -1,0 +1,12 @@
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\bin\Debug\DesignPatternBusiness.dll
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\bin\Debug\DesignPatternBusiness.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\bin\Debug\Entities.dll
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\bin\Debug\Entities.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\obj\Debug\DesignPatternBusiness.csprojResolveAssemblyReference.cache
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\obj\Debug\DesignPatternBusiness.csproj.CoreCompileInputs.cache
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\obj\Debug\DesignPatternBusiness.dll
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\obj\Debug\DesignPatternBusiness.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\bin\Debug\BusinessContrats.dll
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\bin\Debug\RepositoryContrats.dll
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\bin\Debug\BusinessContrats.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternBusiness\bin\Debug\RepositoryContrats.pdb

@@ -1,0 +1,6 @@
+E:\formation NET\ExoDesignPattern\DesignPatternModels\bin\Debug\DesignPatternModels.dll
+E:\formation NET\ExoDesignPattern\DesignPatternModels\bin\Debug\DesignPatternModels.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternModels\obj\Debug\DesignPatternModels.csprojResolveAssemblyReference.cache
+E:\formation NET\ExoDesignPattern\DesignPatternModels\obj\Debug\DesignPatternModels.csproj.CoreCompileInputs.cache
+E:\formation NET\ExoDesignPattern\DesignPatternModels\obj\Debug\DesignPatternModels.dll
+E:\formation NET\ExoDesignPattern\DesignPatternModels\obj\Debug\DesignPatternModels.pdb

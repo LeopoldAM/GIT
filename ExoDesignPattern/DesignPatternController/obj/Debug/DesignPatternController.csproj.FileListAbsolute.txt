@@ -1,0 +1,14 @@
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\DesignPatternController.dll
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\DesignPatternController.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternController\obj\Debug\DesignPatternController.csprojResolveAssemblyReference.cache
+E:\formation NET\ExoDesignPattern\DesignPatternController\obj\Debug\DesignPatternController.csproj.CoreCompileInputs.cache
+E:\formation NET\ExoDesignPattern\DesignPatternController\obj\Debug\DesignPatternController.dll
+E:\formation NET\ExoDesignPattern\DesignPatternController\obj\Debug\DesignPatternController.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\Entities.dll
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\Repository.dll
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\Entities.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\Repository.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\BusinessContrats.dll
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\RepositoryContrats.dll
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\BusinessContrats.pdb
+E:\formation NET\ExoDesignPattern\DesignPatternController\bin\Debug\RepositoryContrats.pdb

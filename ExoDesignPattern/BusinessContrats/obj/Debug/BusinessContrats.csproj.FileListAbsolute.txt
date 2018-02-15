@@ -1,0 +1,8 @@
+E:\formation NET\ExoDesignPattern\BusinessContrats\bin\Debug\BusinessContrats.dll
+E:\formation NET\ExoDesignPattern\BusinessContrats\bin\Debug\BusinessContrats.pdb
+E:\formation NET\ExoDesignPattern\BusinessContrats\bin\Debug\Entities.dll
+E:\formation NET\ExoDesignPattern\BusinessContrats\bin\Debug\Entities.pdb
+E:\formation NET\ExoDesignPattern\BusinessContrats\obj\Debug\BusinessContrats.csprojResolveAssemblyReference.cache
+E:\formation NET\ExoDesignPattern\BusinessContrats\obj\Debug\BusinessContrats.csproj.CoreCompileInputs.cache
+E:\formation NET\ExoDesignPattern\BusinessContrats\obj\Debug\BusinessContrats.dll
+E:\formation NET\ExoDesignPattern\BusinessContrats\obj\Debug\BusinessContrats.pdb

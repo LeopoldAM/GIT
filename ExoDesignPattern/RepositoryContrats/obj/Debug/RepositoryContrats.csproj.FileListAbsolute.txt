@@ -1,0 +1,8 @@
+E:\formation NET\ExoDesignPattern\RepositoryContrats\bin\Debug\RepositoryContrats.dll
+E:\formation NET\ExoDesignPattern\RepositoryContrats\bin\Debug\RepositoryContrats.pdb
+E:\formation NET\ExoDesignPattern\RepositoryContrats\bin\Debug\Entities.dll
+E:\formation NET\ExoDesignPattern\RepositoryContrats\bin\Debug\Entities.pdb
+E:\formation NET\ExoDesignPattern\RepositoryContrats\obj\Debug\RepositoryContrats.csprojResolveAssemblyReference.cache
+E:\formation NET\ExoDesignPattern\RepositoryContrats\obj\Debug\RepositoryContrats.csproj.CoreCompileInputs.cache
+E:\formation NET\ExoDesignPattern\RepositoryContrats\obj\Debug\RepositoryContrats.dll
+E:\formation NET\ExoDesignPattern\RepositoryContrats\obj\Debug\RepositoryContrats.pdb
