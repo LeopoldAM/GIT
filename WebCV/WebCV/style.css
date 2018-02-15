@@ -1,9 +1,6 @@
 ﻿.container {
-    max-width: 960px;
+    max-width: 100%;
 }
-
-
-
 
 .col-md-1 {
     opacity: 0.2;
@@ -13,7 +10,6 @@
 .p {
     color: black;
 }
-
 
 /*
  * Extra utilities
@@ -37,15 +33,10 @@ order-top {
     flex: 1;
 }
 
-
-@media (min-width: 768px) {
-    .flex-md-equal > * {
-        -ms-flex: 1;
-        -webkit-box-flex: 1;
-        flex: 1;
-    }
-}
-
 .overflow-hidden {
     overflow: hidden;
+}
+
+.footer{
+    text-align:center;
 }
