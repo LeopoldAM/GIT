@@ -42,9 +42,13 @@ namespace daoMangasAmis
             }
             return false;
         }
-
-       
-        public override string ToString()
+        
+         public override int GetHashCode()
+        {
+            return base.GetHashCode();
+        }
+        
+         public override string ToString()
         {
             return string.Format("[Ami: ID={0}, Nom={1}, Prenom={2}, Surnom={3}, Mangas={4}]", ID, Nom, Prenom, Surnom, Mangas);
         }
