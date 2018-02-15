@@ -1,0 +1,11 @@
+/Users/ludivine/Projects/daoMangasAmis/bin/Debug/netcoreapp2.0/daoMangasAmis.deps.json
+/Users/ludivine/Projects/daoMangasAmis/bin/Debug/netcoreapp2.0/daoMangasAmis.runtimeconfig.json
+/Users/ludivine/Projects/daoMangasAmis/bin/Debug/netcoreapp2.0/daoMangasAmis.runtimeconfig.dev.json
+/Users/ludivine/Projects/daoMangasAmis/bin/Debug/netcoreapp2.0/daoMangasAmis.dll
+/Users/ludivine/Projects/daoMangasAmis/bin/Debug/netcoreapp2.0/daoMangasAmis.pdb
+/Users/ludivine/Projects/daoMangasAmis/obj/Debug/netcoreapp2.0/daoMangasAmis.csprojResolveAssemblyReference.cache
+/Users/ludivine/Projects/daoMangasAmis/obj/Debug/netcoreapp2.0/daoMangasAmis.csproj.CoreCompileInputs.cache
+/Users/ludivine/Projects/daoMangasAmis/obj/Debug/netcoreapp2.0/daoMangasAmis.AssemblyInfoInputs.cache
+/Users/ludivine/Projects/daoMangasAmis/obj/Debug/netcoreapp2.0/daoMangasAmis.AssemblyInfo.cs
+/Users/ludivine/Projects/daoMangasAmis/obj/Debug/netcoreapp2.0/daoMangasAmis.dll
+/Users/ludivine/Projects/daoMangasAmis/obj/Debug/netcoreapp2.0/daoMangasAmis.pdb
