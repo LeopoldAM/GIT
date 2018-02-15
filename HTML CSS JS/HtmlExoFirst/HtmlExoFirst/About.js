@@ -4,7 +4,7 @@
     if (person == null || person == "") {
         txt = "User cancelled the prompt.";
     } else {
-        txt = "Hello " + person + "! How are you today?";
+        txt = "Hello " + person + " ! How are you today?";
     }
     document.getElementById("demo").innerHTML = txt;
 }
