@@ -9,15 +9,20 @@
 
 .p {
     color: black;
+    font-size: larger;
+    text-align: justify;
+    
+}
+
+.p1 {
+    color: white;
+    font-size: larger;
+    text-align: justify;
 }
 
 /*
  * Extra utilities
  */
-
-order-top {
-    border-top: 1px solid #e5e5e5;
-}
 
 .border-bottom {
     border-bottom: 1px solid #e5e5e5;
@@ -25,6 +30,8 @@ order-top {
 
 .box-shadow {
     box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+    padding-top:20px;
+    padding-bottom:20px;
 }
 
 .flex-equal > * {
@@ -37,6 +44,15 @@ order-top {
     overflow: hidden;
 }
 
-.footer{
-    text-align:center;
+.footer {
+    text-align: center;
+}
+
+.formation {
+    color: black;
+}
+
+#div_tag {
+    float: left;
+    width: 20%;
 }
