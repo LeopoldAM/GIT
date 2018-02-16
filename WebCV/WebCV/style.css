@@ -68,6 +68,17 @@
     display: none;
 }
 
-img {
-    margin-top: 10%;
+
+#sharigan {
+    font-size: xx-large;
+    text-align: center;
+    font-family: fantasy;
+    color: #530303;
+    border-color: aliceblue;
+    border: 2px;
+}
+
+.pa {
+    padding-bottom: 10px;
+    text-align: center;
 }
