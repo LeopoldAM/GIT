@@ -15,7 +15,14 @@
 </head>
 
 <body>
-    <div class="container col-md-12">
+
+    <div id="itachi">
+        <button class="btn btn-outline-secondary" onclick="hiddenImg()">Appuyer ici !</button>
+        <span>TEST</span>
+    </div>
+
+
+    <div id="container" class="col-md-12">
         <div class="position-relative overflow-hidden p-3 p-md-5 m-md-3 text-center bg-light">
 
 
@@ -29,76 +36,91 @@
                     Cela sera l'occasion de montrer ses compétences acquises lors de ces formations.
                     A long terme, il souhaite évoluer vers des postes d'Expert Technique ou de Chef de Projet.
                 </p>
+
                 <button class="btn btn-outline-info">Motivé</button>
                 <button class="btn btn-outline-info">Autodidacte</button>
                 <button class="btn btn-outline-info">Sérieux</button>
                 <button class="btn btn-outline-danger">C#</button>
                 <button class="btn btn-outline-primary">.NET</button>
-                <button class="btn btn-outline-info" onclick="showImg(this)">N'appuyez pas ici !</button>
-                <h1 id='div_tag'></h1>
+                <button class="btn btn-outline-secondary" onclick="showImg()">N'appuyez pas ici !</button>
             </div>
-            <div class="col-md-1" style="font-size:30px; color:black"><i class="fas fa-tablet-alt"></i></div>
-            <div class="col-md-1" style="font-size:30px; color:black"><i class="fas fa-mobile"></i></div>
-            <div class="col-md-1" style="font-size:30px; color:black"><i class="fas fa-desktop"></i></div>
-            <div class="col-md-1" style="font-size:30px; color:black"><i class="fab fa-windows"></i></div>
-            <div class="col-md-1" style="font-size:30px; color:black"><i class="fab fa-apple"></i></div>
-            <div class="col-md-1" style="font-size:30px; color:black"><i class="fab fa-linux"></i></div>
-
-
+        </div>
+        <div class="row">
+            <div class="col">
+                <div style="font-size:30px; color:black"><i class="fas fa-tablet-alt"></i></div>
+            </div>
+            <div class="col">
+                <div style="font-size:30px; color:black"><i class="fas fa-mobile"></i></div>
+            </div>
+            <div class="col">
+                <div style="font-size:30px; color:black"><i class="fas fa-desktop"></i></div>
+            </div>
+            <div class="col">
+                <div style="font-size:30px; color:black"><i class="fab fa-windows"></i></div>
+            </div>
+            <div class="col">
+                <div style="font-size:30px; color:black"><i class="fab fa-apple"></i></div>
+            </div>
+            <div class="col">
+                <div style="font-size:30px; color:black"><i class="fab fa-linux"></i></div>
+            </div>
         </div>
 
-        <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
-            <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-3 px-md-5 text-center text-white overflow-hidden col-md-12" style="border-radius: 21px 21px 21px 21px;">
-                <div class="my-3 py-3">
-                    <h2 class="display-3">Expériences</h2>
-                </div>
-                <div class="bg-light box-shadow mx-auto text-center lead font-weight-normal col-md-12" style="width: 75%; height: 68%; border-radius: 21px 21px 21px 21px;">
-                    <p class="p">Manutention(1 mois) <br />&nbsp;-Esprit d'équipe<br />&nbsp;-Gestion du temps</p>
-                    <p class="p">Développeur web (3 mois) <br />&nbsp;-Symfony &nbsp;-PHP &nbsp;-Javascript, Ajax, Jquery</p>
-                    <p class="p">Astronaute (5 mois) <br />&nbsp;-Fusée &nbsp;-PHP &nbsp;-Javascript, Ajax, Jquery</p>
-                    <p class="p">Pianiste (4 mois) <br />&nbsp;-Symfony<br />&nbsp;-PHP <br />&nbsp;-Javascript, Ajax, Jquery</p>
-                    <p><br /></p>
+
+    </div>
+
+    <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+        <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-3 px-md-5 text-center text-white overflow-hidden col-md-12" style="border-radius: 21px 21px 21px 21px;">
+            <div class="my-3 py-3">
+                <h2 class="display-3">Expériences</h2>
+            </div>
+            <div class="bg-light box-shadow mx-auto text-center lead font-weight-normal col-md-12" style="width: 75%; height: 68%; border-radius: 21px 21px 21px 21px;">
+                <p class="p">Manutention(1 mois) <br />&nbsp;Esprit d'équipe<br />&nbsp;Gestion du temps</p>
+                <p class="p">Développeur web (3 mois) <br />&nbsp;Symfony &nbsp;-PHP &nbsp;Javascript, Ajax, Jquery</p>
+                <p class="p">Astronaute (5 mois) <br />&nbsp;Fusée &nbsp;-PHP &nbsp;Javascript, Ajax, Jquery</p>
+                <p class="p">Pianiste (4 mois) <br />&nbsp;Symfony<br />&nbsp;PHP <br />&nbsp;Javascript, Ajax, Jquery</p>
+                <p><br /></p>
 
 
-                </div>
+            </div>
+        </div>
+        <hr>
+    </div>
+
+
+    <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+        <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-3 px-md-5 text-center text-white overflow-hidden col-md-12" style="border-radius: 21px 21px 21px 21px;">
+            <div class="my-3 py-3">
+                <h2 class="display-3">Formations</h2>
+            </div>
+            <div class="bg-light box-shadow mx-auto text-center lead font-weight-normal col-md-12 " style="width: 75%; height: 62%; border-radius: 21px 21px 21px 21px;">
+                <p class="p">Licence Professionnelle DA2I <br />&nbsp;Langages Web<br />&nbsp;POO<br />&nbsp;CMS</p>
+                <p class="p">BTS Système Numériques <br />&nbsp;Informatique &nbsp;Réseau &nbsp;Electronique, Oscillogramme</p>
+                <p class="p">Bac Scientifique<br />&nbsp;SVT</p>
+                <p><br /></p>
+            </div>
+        </div>
+        <hr>
+    </div>
+
+    <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
+        <div class="bg-light mr-md-3 pt-3 px-3 pt-md-3 px-md-5 text-center text-white overflow-hidden col-md-12" style="border-radius: 21px 21px 21px 21px; border:solid 5px #343a40;">
+            <div class="my-3 py-3">
+                <h2 class="display-3 formation">Compétences</h2>
+            </div>
+            <div class="bg-dark box-shadow mx-auto text-center lead font-weight-normal col-md-12" style="width: 75%; height: 58%; border-radius: 21px 21px 21px 21px;">
+                <p class="p1">Langages web</p>
+                <p class="p1">Programmation</p>
+                <p class="p1">Base de Données</p>
+                <p class="p1">Méthodologies</p>
+                <p class="p1">Versionning</p>
+                <p class="p1"></p>
+                <p><br /></p>
             </div>
             <hr>
-        </div>
-       
-
-        <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
-            <div class="bg-dark mr-md-3 pt-3 px-3 pt-md-3 px-md-5 text-center text-white overflow-hidden col-md-12" style="border-radius: 21px 21px 21px 21px;">
-                <div class="my-3 py-3">
-                    <h2 class="display-3">Formations</h2>
-                </div>
-                <div class="bg-light box-shadow mx-auto text-center lead font-weight-normal col-md-12 " style="width: 75%; height: 62%; border-radius: 21px 21px 21px 21px;">
-                    <p class="p">Licence Professionnelle DA2I <br />&nbsp;-Langages Web<br />&nbsp;-POO<br />&nbsp;-CMS</p>
-                    <p class="p">BTS Système Numériques <br />&nbsp;-Informatique &nbsp;-Réseau &nbsp;-Electronique, Oscillogramme</p>
-                    <p class="p">Bac Scientifique<br />&nbsp;-SVT</p>
-                    <p><br /></p>
-                </div>
-            </div>
-            <hr>
-        </div>
-
-        <div class="d-md-flex flex-md-equal w-100 my-md-3 pl-md-3">
-            <div class="bg-light mr-md-3 pt-3 px-3 pt-md-3 px-md-5 text-center text-white overflow-hidden col-md-12" style="border-radius: 21px 21px 21px 21px; border:solid 5px #343a40;">
-                <div class="my-3 py-3">
-                    <h2 class="display-3 formation">Compétences</h2>
-                </div>
-                <div class="bg-dark box-shadow mx-auto text-center lead font-weight-normal col-md-12" style="width: 75%; height: 58%; border-radius: 21px 21px 21px 21px;">
-                    <p class="p1">Langages web</p>
-                    <p class="p1">Programmation</p>
-                    <p class="p1">Base de Données</p>
-                    <p class="p1">Méthodologies</p>
-                    <p class="p1">Versionning</p>
-                    <p class="p1"></p>
-                    <p><br /></p>
-                </div>
-                <hr>
-            </div>
         </div>
     </div>
+
     <footer class="container">
         <p class="footer">&copy;2018 - Léopold Amengual</p>
     </footer>
