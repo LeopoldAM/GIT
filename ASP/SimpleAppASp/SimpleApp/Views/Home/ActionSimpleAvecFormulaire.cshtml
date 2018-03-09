@@ -1,0 +1,15 @@
+﻿<label class="label-success">
+    @ViewBag.Result
+</label>
+@using (Html.BeginForm())
+{
+    <label>value 1</label>
+    <input type="text" name="value1" value="" />
+    <br />
+    <br />
+    <label>value 2</label>
+    <input type="text" name="value2" value="" />
+    <br />
+    <br />
+    <input type="submit" value="Envoyer" />
+}

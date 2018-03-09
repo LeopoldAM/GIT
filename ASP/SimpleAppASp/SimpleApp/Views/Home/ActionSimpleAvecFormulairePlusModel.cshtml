@@ -1,0 +1,21 @@
+﻿@model SimpleApp.Models.Message
+
+<label class="label-success">
+    @ViewBag.Result
+</label>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.Contenu)
+    @Html.EditorFor(m => m.Contenu)
+    <br />
+    <br />
+    @Html.LabelFor(m => m.Emetteur)
+    @Html.EditorFor(m => m.Emetteur)
+    <br />
+    <br />
+    @Html.LabelFor(m => m.Date)
+    @Html.EditorFor(m => m.Date)
+    <br />
+    <br />
+    <input type="submit" value="Envoyer" />
+}

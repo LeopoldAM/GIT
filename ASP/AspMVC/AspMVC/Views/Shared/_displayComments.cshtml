@@ -1,0 +1,28 @@
+﻿@model ICollection<AspMVC.Models.Commentaire>
+
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th scope="col">Auteur</th>
+            <th scope="col">Contenu</th>
+            <th scope="col">Date de création</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (AspMVC.Models.Commentaire com in Model)
+        {
+            <tr>
+                <td>@com.Author</td>
+                <td>@com.Content</td>
+                <td>@com.Date</td>
+                <td>
+                    @Ajax.ActionLink("Delete", "DeleteCom", "Home", new { id = com.Id, articleId = com.ArticleId }, new AjaxOptions { UpdateTargetId = "NomZone" })
+                </td>
+
+
+            </tr>
+        }
+    </tbody>
+</table>
+

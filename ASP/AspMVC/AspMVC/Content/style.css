@@ -1,0 +1,29 @@
+﻿.add {
+    margin-top: 56px;
+}
+
+.details{
+    
+    display : block;
+    margin-top: 10px;
+}
+
+.row {
+    margin-left : 0px;
+}
+
+.search{
+    margin-top:10px;
+    display : inline-block;
+}
+
+.btn-secondary {
+    margin-top: 12px;
+    margin-left: 5px;
+}
+
+.lien {
+    padding-top: 10px;
+    padding-bottom : 10px;
+    font-size :larger;
+}

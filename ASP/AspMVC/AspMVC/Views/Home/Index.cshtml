@@ -1,0 +1,75 @@
+﻿@model List<AspMVC.Models.Article>
+
+@{
+    ViewBag.Title = "Accueil";
+}
+
+<div class="jumbotron">
+    <div class="container">
+        <h1 class="display-3">Welcome to the Wiki</h1>
+        <p>This is a blog for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+    </div>
+</div>
+
+@ViewBag.display
+<div class="row">
+    <div class="col-md-2">
+        <h3>Articles </h3>
+        @foreach (var article in Model)
+        {
+            <p>@article.Id </p>
+        }
+    </div>
+    <div class="col-md-2">
+        <h3>Auteur </h3>
+        @foreach (var article in Model)
+        {
+            <p>@article.Author </p>
+        }
+
+    </div>
+    <div class="col-md-2">
+        <h3>Theme</h3>
+        @foreach (var article in Model)
+        {
+            <p>@article.Theme </p>
+        }
+
+    </div>
+    <div class="col-md-2">
+        <h3>Création</h3>
+        @foreach (var article in Model)
+        {
+            <p>@article.Created </p>
+        }
+
+    </div>
+    <div class="col-md-2">
+        <h3>Contenu</h3>
+        @foreach (var article in Model)
+        {
+            <p>@article.Content </p>
+        }
+    </div>
+    <div class="add">
+        @foreach (var article in Model)
+        {
+            <div>
+                <span class="details"><a href="Details">@Html.ActionLink("Détails", "Details", new { id = article.Id }) &raquo;</a></span>
+            </div>
+        }
+    </div>
+    <br />
+    <div class="lien">
+        @{
+            for (int i = 0; i <= ViewBag.nbPage; i++)
+            {
+                @Html.ActionLink("page " + (i + 1) + " ", "Index", new { page = i })
+            }
+        }
+    </div>
+    <a type="button" href="Home/Form" class="btn btn-success">Add a article</a>
+</div>
+
+
